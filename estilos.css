@@ -1,0 +1,57 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+.contenedor{
+    width:80%;
+    margin:auto;
+    margin-top:50px;
+}
+
+.boton{
+    display:block;
+    width:250px;
+    margin:15px auto;
+    padding:15px;
+    background:#007bff;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+.boton:hover{
+    background:#0056b3;
+}
+
+form{
+    margin-bottom:20px;
+}
+
+input{
+    padding:8px;
+    margin:5px;
+}
+
+button{
+    padding:8px 15px;
+    background:green;
+    color:white;
+    border:none;
+}
+
+table{
+    border-collapse:collapse;
+    background:white;
+}
+
+th{
+    background:#007bff;
+    color:white;
+    padding:10px;
+}
+
+td{
+    padding:10px;
+}
